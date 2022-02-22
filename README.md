@@ -1,8 +1,8 @@
 ### Olá, eu me chamo Gabriel Uchoa, prazer em tê-lo aqui  👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<br> </br>
 <p align="left"> 
-  Tenho 18 anos e sou fascinado pelo universo que a programação me permiti vivenciar:  <strong>Imagino, Planejo e Crio</strong>. Sou formado como tecnólogo pelo Estado do Ceará, com     expertise em desenvolvimento de sistemas voltados para Web (FULL-STACK) e criação e prototipação de interfaces (UX/UI DESIGNER).
+  Tenho 18 anos e sou fascinado pelo universo que a programação me permite vivenciar:  <strong>Imagino, Planejo e Crio</strong>. Sou formado como tecnólogo pelo Estado do Ceará, com     expertise em desenvolvimento de sistemas voltados para Web (FULL-STACK) e criação e prototipação de interfaces (UX/UI DESIGNER).
 </p>
 
 <div align="left">
