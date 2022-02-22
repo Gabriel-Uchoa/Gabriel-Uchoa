@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  <a href="uchoagabriely@gmail.com" alt="Gmail">
+  <a href="mailto:uchoagabriely@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=uchoagabriely@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/gabriel-uchoa-086226212" alt="Linkedin">
