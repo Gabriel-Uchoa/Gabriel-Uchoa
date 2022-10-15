@@ -11,11 +11,10 @@
     <table>
       <ul>
         <li><strong>PHP</strong></li>
-        <li><strong>LARAVEL</strong></li>
         <li><strong> CSS</strong></li>
         <li><strong>JS</strong></li>
         <li><strong> SASS</strong></li>
-        <li><strong> VUE JS</strong></li>
+        <li><strong> Tailwind </strong></li>
         <li><strong>REACT JS</strong></li>
         <li><strong>NODE JS</strong></li>
         <li><strong>MONGO DB</strong></li>
