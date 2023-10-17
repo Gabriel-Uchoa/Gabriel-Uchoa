@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <br> </br>
 <p align="left"> 
-  Tenho 19 anos e sou fascinado pelo universo que a programação me permite vivenciar:  <strong>Imagino, Planejo e Crio</strong>. Sou formado como tecnólogo pelo Estado do Ceará, com     expertise em desenvolvimento de sistemas voltados para Web (FULL-STACK) e criação e prototipação de interfaces (UX/UI DESIGNER).
+Sou um apaixonado pela arte de transformar ideias em realidade através da programação. Imagino, planejo e crio soluções para a Web. Sou Técnico em Informática certificado pelo Estado do Ceará e graduando em Sistemas de Informação. Tenho expertise em desenvolvimento e gerência de sistemas voltados para Web e criação e prototipação de interfaces. Busco sempre me aperfeiçoar e aprender novas tecnologias, visando entregar projetos de qualidade e que atendam às necessidades dos clientes.
 </p>
 
 <div align="left">
@@ -40,7 +40,4 @@
 
   <a href="https://www.linkedin.com/in/gabriel-uchoa-086226212" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-uchoa-086226212" /></a>
-
-  <a href="https://www.instagram.com/gabriel_u.b/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_u.b/"/></a>
 </p>  
